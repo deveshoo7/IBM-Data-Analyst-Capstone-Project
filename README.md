@@ -1,7 +1,9 @@
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
  [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/deveshoo7?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/deveshoo7) 
-Course-9 : IBM Data Analyst Capstone Project ![](https://www.ibm.com/design/language/819fdd52300a64595843ff4186ae5098/core_gray10_on_blue60.svg)
+  
+
+Course-9 : IBM Data Analyst Capstone Project ![](https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png)
 ================================================================================================================================================
 
 About this Project
@@ -57,4 +59,4 @@ Objective
 
 Analysis of 2019 Stack Overflow Developer Survey Results
 
-[Verification Link for Certificate](https://www.coursera.org/account/accomplishments/verify/LLRJM9D9FKXC).
+👉[Verification Link for Certificate](https://www.coursera.org/account/accomplishments/verify/LLRJM9D9FKXC).
